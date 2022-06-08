@@ -23,6 +23,21 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(heavyR)
 ## basic example code
+matrice <- cbind(c(1, 2), c(3,4), c(5,6))
+matrice
+#>      [,1] [,2] [,3]
+#> [1,]    1    3    5
+#> [2,]    2    4    6
+mean_M <- c(0,0)
+varcovM <- diag(1, 2)
+mvnpdf(matrice, mean_M, varcovM = varcovM, Log = FALSE)
+#> $mat
+#>      [,1] [,2] [,3]
+#> [1,]    1    3    5
+#> [2,]    2    4    6
+#> 
+#> $vect
+#> [1] 1.306423e-02 5.931153e-07 9.033134e-15
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`?
