@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/SalebHet/heavyR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/SalebHet/heavyR/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/SalebHet/heavyR/branch/master/graph/badge.svg)](https://app.codecov.io/gh/SalebHet/heavyR?branch=master)
 <!-- badges: end -->
 
 The goal of heavyR is to learn how to use GitHub (among others).
