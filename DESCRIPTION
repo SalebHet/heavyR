@@ -1,0 +1,16 @@
+Package: heavyR
+Title: heavyR
+Version: 0.0.0.9000
+Authors@R: 
+    person("Clément", "Nerestan", , "clement.nerestan@u-bordeaux.fr", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Cours Université d'été.
+License: AGPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+Imports:
+  mvtnorm
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
