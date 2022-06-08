@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of heavyR is to exercice ourself
+The goal of heavyR is to learn how to use GitHub (among others).
 
 ## Installation
 
