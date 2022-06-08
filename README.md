@@ -4,6 +4,8 @@
 # heavyR
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/SalebHet/heavyR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/SalebHet/heavyR/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of heavyR is to learn how to use GitHub (among others).
