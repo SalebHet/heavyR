@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of heavyR is to …
+The goal of heavyR is to exercice ourself
 
 ## Installation
 
