@@ -35,6 +35,11 @@ This is a basic example which shows you how to solve a common problem:
 ```{r example}
 library(heavyR)
 ## basic example code
+matrice <- cbind(c(1, 2), c(3,4), c(5,6))
+matrice
+mean_M <- c(0,0)
+varcovM <- diag(1, 2)
+mvnpdf(matrice, mean_M, varcovM = varcovM, Log = FALSE)
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
